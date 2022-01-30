@@ -45,58 +45,72 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Walkthrough Videos:
 
-* Start application's server:
+- Start application's server:
+
 ![Start Server](./assets/gifs/getandpostthoughtroutes.gif)
 
-* GET all Users, GET all Thoughts:
+- GET all Users, GET all Thoughts:
+
 ![GET all Users, GET all Thoughts](./assets/gifs/getallusersgetallthoughts.gif)
 
-* POST and GET Users:
-![POST and GET Users](./assets/gifs/.gif)
+- POST and GET User:
 
-* GET single User:
-![GET single User](./assets/gifs/.gif)
+![POST and GET User](./assets/gifs/postandgetuser.gif)
 
-* PUT User:
-![PUT](./assets/gifs/.gif)
+- GET single User:
 
-* DELETE User:
-![DELETE User](./assets/gifs/.gif)
+![GET single User](./assets/gifs/getsingleuser.gif)
 
-* POST and GET Thoughts:
-![POST and GET Thoughts](./assets/gifs/.gif)
+- PUT User:
 
-* GET one Thought:
-![GET one Thought](./assets/gifs/.gif)
+![PUT User](./assets/gifs/putuser.gif)
 
-* PUT Thought:
-![PUT Thought](./assets/gifs/.gif)
+- DELETE User:
 
-* DELETE Thought:
-![DELETE Thought](./assets/gifs/.gif)
+![DELETE User](./assets/gifs/deleteuser.gif)
 
-* POST and GET Reaction: 
-![POST and GET Reaction](./assets/gifs/.gif)
+- POST and GET Thoughts:
 
-* DELETE Reaction:
-![DELETE Reaction](./assets/gifs/.gif)
+![POST and GET Thoughts](./assets/gifs/postandgetthoughts.gif)
 
-* POST and GET Friend
-![POST and GET Friend](./assets/gifs/.gif)
+- GET one Thought:
 
-* DELETE Friend:
-![DELETE Friend](./assets/gifs/.gif)
+![GET one Thought](./assets/gifs/getonethought.gif)
 
-### View on Youtube:
+- PUT Thought:
+
+![Put Thought](./assets/gifs/putthought.gif)
+
+- DELETE Thought:
+
+![DELETE Thought](./assets/gifs/deletethought.gif)
+
+- POST and GET Reaction: 
+
+![POST and GET Reaction](./assets/gifs/postreaction.gif)
+
+- DELETE Reaction:
+
+![DELETE Reaction](./assets/gifs/deletereaction.gif)
+
+- POST and GET Friend
+
+![POST and GET Friend](./assets/gifs/postfriend.gif)
+
+- DELETE Friend:
+
+![DELETE Friend](./assets/gifs/deletefriend.gif)
+
+### View FULL videos on Youtube:
 
 - [Start application's server, GET all Users, GET all Thoughts:](https://www.youtube.com/watch?v=z-K96aksFaY)
 - [POST and GET Users](https://www.youtube.com/watch?v=kbTvYcTBHJo)
 - [GET single User](https://www.youtube.com/watch?v=3Pl5cfh8KMQ)
-- [PUT User]()
 - [DELETE User](https://www.youtube.com/watch?v=xxDpO_Ha_AA)
+- [PUT User](https://www.youtube.com/watch?v=TPrHYeD4G0M)
 - [POST and GET Thoughts](https://www.youtube.com/watch?v=gpGNm9j9_-Q)
 - [GET one Thought](https://www.youtube.com/watch?v=VBdeRBmIq6U)
-- [PUT Thought]()
+- [PUT Thought](https://www.youtube.com/watch?v=928C0x4P_gY)
 - [DELETE Thought](https://www.youtube.com/watch?v=F4J-_f8ITjg)
 - [POST and GET Reaction](https://www.youtube.com/watch?v=Rr-5oTKqFOA)
 - [DELETE Reaction](https://www.youtube.com/watch?v=e0CKif-AowY)
@@ -104,9 +118,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 - [DELETE Friend](https://www.youtube.com/watch?v=k3_IiLFUNvs)
 
 
+## CONTACT ME:
 
-
-
-
+- [Github](https://github.com/bripap)  
+- email: bpappas302@gmail.com
 
 
